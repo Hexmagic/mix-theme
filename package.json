@@ -1,0 +1,55 @@
+{
+  "name": "Python-Mix-Theme",
+  "displayName": "Python Mix Theme",
+  "description": "python主题，改编自sl33py theme",
+  "version": "1.0.0",
+  "publisher": "HexMagic",
+  "license": "MIT",
+  "galleryBanner": {
+    "color": "#2C2F33",
+    "theme": "dark"
+  },
+  "engines": {
+    "vscode": "^0.10.5"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "keywords": [
+    "python",
+    "theme",
+    "mix",
+    "dark",
+    "onedark"
+  ],
+  "icon": "icon.png",
+  "contributes": {
+    "themes": [
+      {
+        "label": "Mix Original",
+        "uiTheme": "vs-dark",
+        "path": "./themes/mix-original.json"
+      },
+      {
+        "label": "Mix One Dark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/mix-one-dark.json"
+      },
+      {
+        "label": "Mix One Dark2",
+        "uiTheme": "vs-dark",
+        "path": "./themes/mix-dark.json"
+      },
+      {
+        "label": "Mix Original2",
+        "uiTheme": "vs-dark",
+        "path": "./themes/mix-original-ii.json"
+      }
+    ]
+  },
+  "homepage": "https://github.com/Hexmagic/mix-theme.git",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Hexmagic/mix-theme.git"
+  }
+}

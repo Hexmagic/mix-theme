@@ -1,2 +1,5 @@
-# mix-theme
-python vscode 主题
+<div align="center">
+
+修改自 sl33py Theme
+
+</div>
